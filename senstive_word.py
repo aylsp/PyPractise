@@ -23,3 +23,4 @@ if __name__ == '__main__':
         print ('Freedom')
     else:
         print ('Human Rights')
+        print ('test again')
