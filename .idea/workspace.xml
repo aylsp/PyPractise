@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84bf8dd5-058a-442f-983d-48e8bf1f7e4a" name="Default" comment="blog spider">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP/Child.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP/Person.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP/Pupil.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP/Student.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOP/execute.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PyPractise.iml" afterPath="$PROJECT_DIR$/.idea/PyPractise.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="84bf8dd5-058a-442f-983d-48e8bf1f7e4a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PyPractise.iws" />
@@ -659,7 +652,14 @@
       <option name="project" value="LOCAL" />
       <updated>1478410795047</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="blog spider">
+      <created>1478423726147</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1478423726147</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
