@@ -18,7 +18,7 @@ def wordJudge(input):
 
 if __name__ == '__main__':
     print ('Please enter the word:')
-    input = input()
+    input = raw_input()
     if (wordJudge(input)):
         print ('Freedom')
     else:
